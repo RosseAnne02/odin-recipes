@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(189, 112, 82);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+}
+
+.list,
+a{
+    color: rgb(192, 163, 108);
+    text-decoration: none; 
+    font-weight: bold;
+    font-size: large; 
+}
+
+.list{
+    width: 300px;
+    height: 65px;
+    background-color: aliceblue;
+}
+
